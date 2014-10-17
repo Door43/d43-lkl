@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lkl:home|Door43 (lkl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lkl|d43-lkl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lkl/archive/master.zip|d43-lkl.zip]]
+
+**Recent Changes**
+{{changes>ns = lkl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lkl|Ethnologue data]]
+
